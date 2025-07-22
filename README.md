@@ -1,3 +1,4 @@
+
 ==============================
 🧺 Laundry Desktop App
 ==============================
@@ -46,17 +47,15 @@ A simple and modern desktop application for managing laundry services — built 
 ==============================
 📸 Screenshots
 ==============================
-Login Form       : [add screenshot path here]
-Dashboard        : [add screenshot path here]
+Dashboard        : https://github.com/BintangSry/laundry-desktop-app/blob/main/Screenshots/Screenshot%202025-07-22%20122851.png
 Transactions     : https://github.com/BintangSry/laundry-desktop-app/blob/main/Screenshots/Screenshot%202025-07-22%20122851.png
-Tip: Save your screenshots in a 'screenshots/' folder.
 
 ==============================
 👤 Author
 ==============================
 Bintang Sry
 GitHub : https://github.com/BintangSry
-Email  : your.email@example.com
+Email  : bintangsry31@gmail.com
 
 ==============================
 📄 License
