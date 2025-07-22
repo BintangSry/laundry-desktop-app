@@ -77,15 +77,6 @@ string connectionString = "server=localhost;uid=root;pwd=;database=laundry";
 
 ---
 
-## 📄 Lisensi | License
-
-Proyek ini dilisensikan di bawah **MIT License**.  
-This project is licensed under the **MIT License**.  
-Lihat file [LICENSE](./LICENSE) untuk detail lebih lanjut.  
-See the [LICENSE](./LICENSE) file for more details.
-
----
-
 ## 🙌 Kontribusi | Contributing
 
 Pull request sangat disambut!  
