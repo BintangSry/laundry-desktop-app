@@ -48,8 +48,7 @@ A simple and modern desktop application for managing laundry services — built 
 ==============================
 Login Form       : [add screenshot path here]
 Dashboard        : [add screenshot path here]
-Transactions     : [add screenshot path here]
-
+Transactions     : https://github.com/BintangSry/laundry-desktop-app/blob/main/Screenshots/Screenshot%202025-07-22%20122851.png
 Tip: Save your screenshots in a 'screenshots/' folder.
 
 ==============================
