@@ -1,0 +1,477 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\All_Project\\Visual Studio\\Laundry\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FF11BDA4-4F4D-49C6-B9DD-2CB403640BE8}|Laundry\\Laundry.csproj|D:\\All_Project\\Visual Studio\\Laundry\\laundry\\manajemenuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FF11BDA4-4F4D-49C6-B9DD-2CB403640BE8}|Laundry\\Laundry.csproj|solutionrelative:laundry\\manajemenuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF11BDA4-4F4D-49C6-B9DD-2CB403640BE8}|Laundry\\Laundry.csproj|D:\\All_Project\\Visual Studio\\Laundry\\laundry\\dashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{FF11BDA4-4F4D-49C6-B9DD-2CB403640BE8}|Laundry\\Laundry.csproj|solutionrelative:laundry\\dashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF11BDA4-4F4D-49C6-B9DD-2CB403640BE8}|Laundry\\Laundry.csproj|D:\\All_Project\\Visual Studio\\Laundry\\laundry\\manajemenuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{FF11BDA4-4F4D-49C6-B9DD-2CB403640BE8}|Laundry\\Laundry.csproj|solutionrelative:laundry\\manajemenuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF11BDA4-4F4D-49C6-B9DD-2CB403640BE8}|Laundry\\Laundry.csproj|d:\\all_project\\visual studio\\laundry\\laundry\\adduser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FF11BDA4-4F4D-49C6-B9DD-2CB403640BE8}|Laundry\\Laundry.csproj|solutionrelative:laundry\\adduser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF11BDA4-4F4D-49C6-B9DD-2CB403640BE8}|Laundry\\Laundry.csproj|D:\\All_Project\\Visual Studio\\Laundry\\laundry\\adduser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{FF11BDA4-4F4D-49C6-B9DD-2CB403640BE8}|Laundry\\Laundry.csproj|solutionrelative:laundry\\adduser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF11BDA4-4F4D-49C6-B9DD-2CB403640BE8}|Laundry\\Laundry.csproj|D:\\All_Project\\Visual Studio\\Laundry\\laundry\\adddetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FF11BDA4-4F4D-49C6-B9DD-2CB403640BE8}|Laundry\\Laundry.csproj|solutionrelative:laundry\\adddetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF11BDA4-4F4D-49C6-B9DD-2CB403640BE8}|Laundry\\Laundry.csproj|D:\\All_Project\\Visual Studio\\Laundry\\laundry\\layanan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{FF11BDA4-4F4D-49C6-B9DD-2CB403640BE8}|Laundry\\Laundry.csproj|solutionrelative:laundry\\layanan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF11BDA4-4F4D-49C6-B9DD-2CB403640BE8}|Laundry\\Laundry.csproj|D:\\All_Project\\Visual Studio\\Laundry\\laundry\\detailpesanan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FF11BDA4-4F4D-49C6-B9DD-2CB403640BE8}|Laundry\\Laundry.csproj|solutionrelative:laundry\\detailpesanan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF11BDA4-4F4D-49C6-B9DD-2CB403640BE8}|Laundry\\Laundry.csproj|D:\\All_Project\\Visual Studio\\Laundry\\laundry\\adddetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{FF11BDA4-4F4D-49C6-B9DD-2CB403640BE8}|Laundry\\Laundry.csproj|solutionrelative:laundry\\adddetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF11BDA4-4F4D-49C6-B9DD-2CB403640BE8}|Laundry\\Laundry.csproj|D:\\All_Project\\Visual Studio\\Laundry\\laundry\\addpesanan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FF11BDA4-4F4D-49C6-B9DD-2CB403640BE8}|Laundry\\Laundry.csproj|solutionrelative:laundry\\addpesanan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF11BDA4-4F4D-49C6-B9DD-2CB403640BE8}|Laundry\\Laundry.csproj|D:\\All_Project\\Visual Studio\\Laundry\\laundry\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FF11BDA4-4F4D-49C6-B9DD-2CB403640BE8}|Laundry\\Laundry.csproj|solutionrelative:laundry\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF11BDA4-4F4D-49C6-B9DD-2CB403640BE8}|Laundry\\Laundry.csproj|D:\\All_Project\\Visual Studio\\Laundry\\laundry\\pesanan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FF11BDA4-4F4D-49C6-B9DD-2CB403640BE8}|Laundry\\Laundry.csproj|solutionrelative:laundry\\pesanan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF11BDA4-4F4D-49C6-B9DD-2CB403640BE8}|Laundry\\Laundry.csproj|D:\\All_Project\\Visual Studio\\Laundry\\laundry\\pembayaran.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FF11BDA4-4F4D-49C6-B9DD-2CB403640BE8}|Laundry\\Laundry.csproj|solutionrelative:laundry\\pembayaran.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF11BDA4-4F4D-49C6-B9DD-2CB403640BE8}|Laundry\\Laundry.csproj|D:\\All_Project\\Visual Studio\\Laundry\\laundry\\addpembayaran.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FF11BDA4-4F4D-49C6-B9DD-2CB403640BE8}|Laundry\\Laundry.csproj|solutionrelative:laundry\\addpembayaran.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF11BDA4-4F4D-49C6-B9DD-2CB403640BE8}|Laundry\\Laundry.csproj|D:\\All_Project\\Visual Studio\\Laundry\\laundry\\dashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FF11BDA4-4F4D-49C6-B9DD-2CB403640BE8}|Laundry\\Laundry.csproj|solutionrelative:laundry\\dashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF11BDA4-4F4D-49C6-B9DD-2CB403640BE8}|Laundry\\Laundry.csproj|D:\\All_Project\\Visual Studio\\Laundry\\laundry\\pesananclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FF11BDA4-4F4D-49C6-B9DD-2CB403640BE8}|Laundry\\Laundry.csproj|solutionrelative:laundry\\pesananclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF11BDA4-4F4D-49C6-B9DD-2CB403640BE8}|Laundry\\Laundry.csproj|D:\\All_Project\\Visual Studio\\Laundry\\laundry\\addpembayaran.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{FF11BDA4-4F4D-49C6-B9DD-2CB403640BE8}|Laundry\\Laundry.csproj|solutionrelative:laundry\\addpembayaran.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF11BDA4-4F4D-49C6-B9DD-2CB403640BE8}|Laundry\\Laundry.csproj|D:\\All_Project\\Visual Studio\\Laundry\\laundry\\layanan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FF11BDA4-4F4D-49C6-B9DD-2CB403640BE8}|Laundry\\Laundry.csproj|solutionrelative:laundry\\layanan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF11BDA4-4F4D-49C6-B9DD-2CB403640BE8}|Laundry\\Laundry.csproj|D:\\All_Project\\Visual Studio\\Laundry\\laundry\\pembayaran.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{FF11BDA4-4F4D-49C6-B9DD-2CB403640BE8}|Laundry\\Laundry.csproj|solutionrelative:laundry\\pembayaran.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF11BDA4-4F4D-49C6-B9DD-2CB403640BE8}|Laundry\\Laundry.csproj|D:\\All_Project\\Visual Studio\\Laundry\\laundry\\pembayanclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FF11BDA4-4F4D-49C6-B9DD-2CB403640BE8}|Laundry\\Laundry.csproj|solutionrelative:laundry\\pembayanclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF11BDA4-4F4D-49C6-B9DD-2CB403640BE8}|Laundry\\Laundry.csproj|D:\\All_Project\\Visual Studio\\Laundry\\laundry\\addlayanan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{FF11BDA4-4F4D-49C6-B9DD-2CB403640BE8}|Laundry\\Laundry.csproj|solutionrelative:laundry\\addlayanan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF11BDA4-4F4D-49C6-B9DD-2CB403640BE8}|Laundry\\Laundry.csproj|D:\\All_Project\\Visual Studio\\Laundry\\laundry\\addlayanan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FF11BDA4-4F4D-49C6-B9DD-2CB403640BE8}|Laundry\\Laundry.csproj|solutionrelative:laundry\\addlayanan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF11BDA4-4F4D-49C6-B9DD-2CB403640BE8}|Laundry\\Laundry.csproj|D:\\All_Project\\Visual Studio\\Laundry\\laundry\\layananclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FF11BDA4-4F4D-49C6-B9DD-2CB403640BE8}|Laundry\\Laundry.csproj|solutionrelative:laundry\\layananclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF11BDA4-4F4D-49C6-B9DD-2CB403640BE8}|Laundry\\Laundry.csproj|D:\\All_Project\\Visual Studio\\Laundry\\laundry\\detailpesanan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{FF11BDA4-4F4D-49C6-B9DD-2CB403640BE8}|Laundry\\Laundry.csproj|solutionrelative:laundry\\detailpesanan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF11BDA4-4F4D-49C6-B9DD-2CB403640BE8}|Laundry\\Laundry.csproj|D:\\All_Project\\Visual Studio\\Laundry\\laundry\\detailpesananclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FF11BDA4-4F4D-49C6-B9DD-2CB403640BE8}|Laundry\\Laundry.csproj|solutionrelative:laundry\\detailpesananclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF11BDA4-4F4D-49C6-B9DD-2CB403640BE8}|Laundry\\Laundry.csproj|D:\\All_Project\\Visual Studio\\Laundry\\laundry\\addpesanan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{FF11BDA4-4F4D-49C6-B9DD-2CB403640BE8}|Laundry\\Laundry.csproj|solutionrelative:laundry\\addpesanan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF11BDA4-4F4D-49C6-B9DD-2CB403640BE8}|Laundry\\Laundry.csproj|D:\\All_Project\\Visual Studio\\Laundry\\laundry\\pesanan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{FF11BDA4-4F4D-49C6-B9DD-2CB403640BE8}|Laundry\\Laundry.csproj|solutionrelative:laundry\\pesanan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF11BDA4-4F4D-49C6-B9DD-2CB403640BE8}|Laundry\\Laundry.csproj|D:\\All_Project\\Visual Studio\\Laundry\\laundry\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FF11BDA4-4F4D-49C6-B9DD-2CB403640BE8}|Laundry\\Laundry.csproj|solutionrelative:laundry\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF11BDA4-4F4D-49C6-B9DD-2CB403640BE8}|Laundry\\Laundry.csproj|D:\\All_Project\\Visual Studio\\Laundry\\laundry\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{FF11BDA4-4F4D-49C6-B9DD-2CB403640BE8}|Laundry\\Laundry.csproj|solutionrelative:laundry\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 19,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "AddPembayaran.cs",
+              "DocumentMoniker": "D:\\All_Project\\Visual Studio\\Laundry\\Laundry\\AddPembayaran.cs",
+              "RelativeDocumentMoniker": "Laundry\\AddPembayaran.cs",
+              "ToolTip": "D:\\All_Project\\Visual Studio\\Laundry\\Laundry\\AddPembayaran.cs",
+              "RelativeToolTip": "Laundry\\AddPembayaran.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAEwBwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-18T15:17:57.701Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "AddPembayaran.cs [Design]",
+              "DocumentMoniker": "D:\\All_Project\\Visual Studio\\Laundry\\Laundry\\AddPembayaran.cs",
+              "RelativeDocumentMoniker": "Laundry\\AddPembayaran.cs",
+              "ToolTip": "D:\\All_Project\\Visual Studio\\Laundry\\Laundry\\AddPembayaran.cs [Design]",
+              "RelativeToolTip": "Laundry\\AddPembayaran.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-18T15:03:24.309Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Pembayaran.cs",
+              "DocumentMoniker": "D:\\All_Project\\Visual Studio\\Laundry\\Laundry\\Pembayaran.cs",
+              "RelativeDocumentMoniker": "Laundry\\Pembayaran.cs",
+              "ToolTip": "D:\\All_Project\\Visual Studio\\Laundry\\Laundry\\Pembayaran.cs",
+              "RelativeToolTip": "Laundry\\Pembayaran.cs",
+              "ViewState": "AgIAAEIAAAAAAAAAAAAqwD4AAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-18T14:54:14.189Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "PembayanClass.cs",
+              "DocumentMoniker": "D:\\All_Project\\Visual Studio\\Laundry\\Laundry\\PembayanClass.cs",
+              "RelativeDocumentMoniker": "Laundry\\PembayanClass.cs",
+              "ToolTip": "D:\\All_Project\\Visual Studio\\Laundry\\Laundry\\PembayanClass.cs",
+              "RelativeToolTip": "Laundry\\PembayanClass.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-18T14:51:36.279Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AddUser.cs",
+              "DocumentMoniker": "D:\\All_Project\\Visual Studio\\Laundry\\Laundry\\AddUser.cs",
+              "RelativeDocumentMoniker": "Laundry\\AddUser.cs",
+              "ToolTip": "D:\\All_Project\\Visual Studio\\Laundry\\Laundry\\AddUser.cs",
+              "RelativeToolTip": "Laundry\\AddUser.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAowCcAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-16T16:55:35.634Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Pembayaran.cs [Design]",
+              "DocumentMoniker": "D:\\All_Project\\Visual Studio\\Laundry\\Laundry\\Pembayaran.cs",
+              "RelativeDocumentMoniker": "Laundry\\Pembayaran.cs",
+              "ToolTip": "D:\\All_Project\\Visual Studio\\Laundry\\Laundry\\Pembayaran.cs [Design]",
+              "RelativeToolTip": "Laundry\\Pembayaran.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-18T14:47:23.667Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "AddLayanan.cs",
+              "DocumentMoniker": "D:\\All_Project\\Visual Studio\\Laundry\\Laundry\\AddLayanan.cs",
+              "RelativeDocumentMoniker": "Laundry\\AddLayanan.cs",
+              "ToolTip": "D:\\All_Project\\Visual Studio\\Laundry\\Laundry\\AddLayanan.cs",
+              "RelativeToolTip": "Laundry\\AddLayanan.cs",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAswD8AAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-17T16:14:53.542Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "AddLayanan.cs [Design]",
+              "DocumentMoniker": "D:\\All_Project\\Visual Studio\\Laundry\\Laundry\\AddLayanan.cs",
+              "RelativeDocumentMoniker": "Laundry\\AddLayanan.cs",
+              "ToolTip": "D:\\All_Project\\Visual Studio\\Laundry\\Laundry\\AddLayanan.cs [Design]",
+              "RelativeToolTip": "Laundry\\AddLayanan.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-17T16:09:57.515Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Layanan.cs",
+              "DocumentMoniker": "D:\\All_Project\\Visual Studio\\Laundry\\Laundry\\Layanan.cs",
+              "RelativeDocumentMoniker": "Laundry\\Layanan.cs",
+              "ToolTip": "D:\\All_Project\\Visual Studio\\Laundry\\Laundry\\Layanan.cs",
+              "RelativeToolTip": "Laundry\\Layanan.cs",
+              "ViewState": "AgIAAFcAAAAAAAAAAADwv38AAABBAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-17T15:57:50.417Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "DetailPesanan.cs",
+              "DocumentMoniker": "D:\\All_Project\\Visual Studio\\Laundry\\Laundry\\DetailPesanan.cs",
+              "RelativeDocumentMoniker": "Laundry\\DetailPesanan.cs",
+              "ToolTip": "D:\\All_Project\\Visual Studio\\Laundry\\Laundry\\DetailPesanan.cs",
+              "RelativeToolTip": "Laundry\\DetailPesanan.cs",
+              "ViewState": "AgIAAGEAAAAAAAAAAAAcwCgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-17T13:04:52.086Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Layanan.cs [Design]",
+              "DocumentMoniker": "D:\\All_Project\\Visual Studio\\Laundry\\Laundry\\Layanan.cs",
+              "RelativeDocumentMoniker": "Laundry\\Layanan.cs",
+              "ToolTip": "D:\\All_Project\\Visual Studio\\Laundry\\Laundry\\Layanan.cs [Design]",
+              "RelativeToolTip": "Laundry\\Layanan.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-17T15:50:29.951Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "LayananClass.cs",
+              "DocumentMoniker": "D:\\All_Project\\Visual Studio\\Laundry\\Laundry\\LayananClass.cs",
+              "RelativeDocumentMoniker": "Laundry\\LayananClass.cs",
+              "ToolTip": "D:\\All_Project\\Visual Studio\\Laundry\\Laundry\\LayananClass.cs",
+              "RelativeToolTip": "Laundry\\LayananClass.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-17T15:50:43.745Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AddDetail.cs",
+              "DocumentMoniker": "D:\\All_Project\\Visual Studio\\Laundry\\Laundry\\AddDetail.cs",
+              "RelativeDocumentMoniker": "Laundry\\AddDetail.cs",
+              "ToolTip": "D:\\All_Project\\Visual Studio\\Laundry\\Laundry\\AddDetail.cs",
+              "RelativeToolTip": "Laundry\\AddDetail.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAA8wBUAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-17T15:07:36.848Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "AddDetail.cs [Design]",
+              "DocumentMoniker": "D:\\All_Project\\Visual Studio\\Laundry\\Laundry\\AddDetail.cs",
+              "RelativeDocumentMoniker": "Laundry\\AddDetail.cs",
+              "ToolTip": "D:\\All_Project\\Visual Studio\\Laundry\\Laundry\\AddDetail.cs [Design]",
+              "RelativeToolTip": "Laundry\\AddDetail.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-17T14:57:01.746Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "DetailPesanan.cs [Design]",
+              "DocumentMoniker": "D:\\All_Project\\Visual Studio\\Laundry\\Laundry\\DetailPesanan.cs",
+              "RelativeDocumentMoniker": "Laundry\\DetailPesanan.cs",
+              "ToolTip": "D:\\All_Project\\Visual Studio\\Laundry\\Laundry\\DetailPesanan.cs [Design]",
+              "RelativeToolTip": "Laundry\\DetailPesanan.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-17T12:53:51.436Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Pesanan.cs",
+              "DocumentMoniker": "D:\\All_Project\\Visual Studio\\Laundry\\Laundry\\Pesanan.cs",
+              "RelativeDocumentMoniker": "Laundry\\Pesanan.cs",
+              "ToolTip": "D:\\All_Project\\Visual Studio\\Laundry\\Laundry\\Pesanan.cs",
+              "RelativeToolTip": "Laundry\\Pesanan.cs",
+              "ViewState": "AgIAAHEAAAAAAAAAAAAUwCAAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-17T07:30:22.553Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "AddPesanan.cs",
+              "DocumentMoniker": "D:\\All_Project\\Visual Studio\\Laundry\\Laundry\\AddPesanan.cs",
+              "RelativeDocumentMoniker": "Laundry\\AddPesanan.cs",
+              "ToolTip": "D:\\All_Project\\Visual Studio\\Laundry\\Laundry\\AddPesanan.cs",
+              "RelativeToolTip": "Laundry\\AddPesanan.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAAwDsAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-17T09:50:56.125Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "AddPesanan.cs [Design]",
+              "DocumentMoniker": "D:\\All_Project\\Visual Studio\\Laundry\\Laundry\\AddPesanan.cs",
+              "RelativeDocumentMoniker": "Laundry\\AddPesanan.cs",
+              "ToolTip": "D:\\All_Project\\Visual Studio\\Laundry\\Laundry\\AddPesanan.cs [Design]",
+              "RelativeToolTip": "Laundry\\AddPesanan.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-17T09:35:37.866Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "PesananClass.cs",
+              "DocumentMoniker": "D:\\All_Project\\Visual Studio\\Laundry\\Laundry\\PesananClass.cs",
+              "RelativeDocumentMoniker": "Laundry\\PesananClass.cs",
+              "ToolTip": "D:\\All_Project\\Visual Studio\\Laundry\\Laundry\\PesananClass.cs",
+              "RelativeToolTip": "Laundry\\PesananClass.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-17T07:33:39.955Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ManajemenUser.cs",
+              "DocumentMoniker": "D:\\All_Project\\Visual Studio\\Laundry\\Laundry\\ManajemenUser.cs",
+              "RelativeDocumentMoniker": "Laundry\\ManajemenUser.cs",
+              "ToolTip": "D:\\All_Project\\Visual Studio\\Laundry\\Laundry\\ManajemenUser.cs",
+              "RelativeToolTip": "Laundry\\ManajemenUser.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAEwBUAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-16T14:19:29.83Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "Pesanan.cs [Design]",
+              "DocumentMoniker": "D:\\All_Project\\Visual Studio\\Laundry\\Laundry\\Pesanan.cs",
+              "RelativeDocumentMoniker": "Laundry\\Pesanan.cs",
+              "ToolTip": "D:\\All_Project\\Visual Studio\\Laundry\\Laundry\\Pesanan.cs [Design]",
+              "RelativeToolTip": "Laundry\\Pesanan.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-17T07:25:57.444Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "DetailPesananClass.cs",
+              "DocumentMoniker": "D:\\All_Project\\Visual Studio\\Laundry\\Laundry\\DetailPesananClass.cs",
+              "RelativeDocumentMoniker": "Laundry\\DetailPesananClass.cs",
+              "ToolTip": "D:\\All_Project\\Visual Studio\\Laundry\\Laundry\\DetailPesananClass.cs",
+              "RelativeToolTip": "Laundry\\DetailPesananClass.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-17T12:55:15.913Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ManajemenUser.cs [Design]",
+              "DocumentMoniker": "D:\\All_Project\\Visual Studio\\Laundry\\Laundry\\ManajemenUser.cs",
+              "RelativeDocumentMoniker": "Laundry\\ManajemenUser.cs",
+              "ToolTip": "D:\\All_Project\\Visual Studio\\Laundry\\Laundry\\ManajemenUser.cs [Design]",
+              "RelativeToolTip": "Laundry\\ManajemenUser.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-16T12:32:46.089Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "User.cs",
+              "DocumentMoniker": "D:\\All_Project\\Visual Studio\\Laundry\\Laundry\\User.cs",
+              "RelativeDocumentMoniker": "Laundry\\User.cs",
+              "ToolTip": "D:\\All_Project\\Visual Studio\\Laundry\\Laundry\\User.cs",
+              "RelativeToolTip": "Laundry\\User.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAiwCAAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-16T13:07:25.619Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Dashboard.cs",
+              "DocumentMoniker": "D:\\All_Project\\Visual Studio\\Laundry\\Laundry\\Dashboard.cs",
+              "RelativeDocumentMoniker": "Laundry\\Dashboard.cs",
+              "ToolTip": "D:\\All_Project\\Visual Studio\\Laundry\\Laundry\\Dashboard.cs",
+              "RelativeToolTip": "Laundry\\Dashboard.cs",
+              "ViewState": "AgIAACIAAAAAAAAAAAAkwCwAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-16T12:49:04.277Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Dashboard.cs [Design]",
+              "DocumentMoniker": "D:\\All_Project\\Visual Studio\\Laundry\\Laundry\\Dashboard.cs",
+              "RelativeDocumentMoniker": "Laundry\\Dashboard.cs",
+              "ToolTip": "D:\\All_Project\\Visual Studio\\Laundry\\Laundry\\Dashboard.cs [Design]",
+              "RelativeToolTip": "Laundry\\Dashboard.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-16T05:00:00.164Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "D:\\All_Project\\Visual Studio\\Laundry\\Laundry\\Form1.cs",
+              "RelativeDocumentMoniker": "Laundry\\Form1.cs",
+              "ToolTip": "D:\\All_Project\\Visual Studio\\Laundry\\Laundry\\Form1.cs",
+              "RelativeToolTip": "Laundry\\Form1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-16T06:31:37.972Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "D:\\All_Project\\Visual Studio\\Laundry\\Laundry\\Form1.cs",
+              "RelativeDocumentMoniker": "Laundry\\Form1.cs",
+              "ToolTip": "D:\\All_Project\\Visual Studio\\Laundry\\Laundry\\Form1.cs [Design]",
+              "RelativeToolTip": "Laundry\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-16T04:51:41.006Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AddUser.cs [Design]",
+              "DocumentMoniker": "D:\\All_Project\\Visual Studio\\Laundry\\Laundry\\AddUser.cs",
+              "RelativeDocumentMoniker": "Laundry\\AddUser.cs",
+              "ToolTip": "D:\\All_Project\\Visual Studio\\Laundry\\Laundry\\AddUser.cs [Design]",
+              "RelativeToolTip": "Laundry\\AddUser.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-16T14:29:08.217Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
