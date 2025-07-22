@@ -1,0 +1,1 @@
+ini adalah sebuah project aplikasi manajemen laundry yang saya buat di visual studio community 2022 yang saya peruntukan untuk admin dari aplikasi laundry yang terhubung dengan laundry-api yang sudah saya buat di repo sebelum nya
